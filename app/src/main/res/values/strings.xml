@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Inventory Tracker</string>
+
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <string name="action_delete_all_entries">Delete All Products</string>
+
+    <string name="editor_activity_title_new_product">Add Stock...</string>
+
+    <string name="editor_activity_title_edit_product">Edit Product</string>
+
+    <string name="action_save">Save</string>
+
+    <string name="action_delete">Delete</string>
+
+    <string name="empty_view_title_text">Eek! You\'re all out of stock!</string>
+
+    <string name="empty_view_subtitle_text">...Get going and add some products!</string>
+
+    <string name="tv_product">Product</string>
+
+    <string name="product_name">Product Name "</string>
+
+    <string name="tv_price">Price</string>
+
+    <string name="price">PRICE: $"</string>
+
+    <string name="tv_quantity">Quantity</string>
+
+    <string name="quantity">Quantity Available:"</string>
+
+    <string name="tv_sale">Sales</string>
+
+    <string name="sale">Sales:"</string>
+
+    <string name="list_product_name">PRODUCT NAME:</string>
+
+    <string name="list_quantity">QUANTITY AVAILABLE:</string>
+
+    <string name="list_sold">SOLD:</string>
+
+    <string name="sold">Sales</string>
+
+    <string name="sell">+1 Sale</string>
+
+    <string name="error_updating_product">Error updating Product</string>
+
+    <string name="catalog_delete_products_successful">All products deleted!</string>
+
+    <string name="catalog_delete_products_failed">Error deleting all products!</string>
+
+    <string name="catalog_delete_dialog_msg">Delete all inventory?</string>
+
+    <string name="delete_dialog_msg">Delete this product?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="editor_delete_product_success">Product deleted!</string>
+
+    <string name="editor_delete_product_failed">Error deleting product</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="error_saving_product">Error saving product :-(</string>
+
+    <string name="product_saved">Product saved!</string>
+
+    <string name="product_updated">Product updated!</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard changes?</string>
+
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+</resources>
